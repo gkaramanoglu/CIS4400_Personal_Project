@@ -1,4 +1,4 @@
-#### Evaluate the price of the houses in Long island based on the School ratings between January and December 2022
+# Evaluate the price of the houses in Long island based on the School ratings between January and December 2022
 
 ### Using the starter project
 
