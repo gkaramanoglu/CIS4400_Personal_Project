@@ -1,7 +1,6 @@
 # NYC Citi Bike Trips Since 2013
-A project by Gozde Karamanoglu
 
-## Quick facts about CitiBike:
+## Overview:
 - Largest Bike Share Sytem in North America
 - Faster than a cab and more convenient than a subway
 - Founded in 2013
